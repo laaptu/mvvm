@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mvvm-simple</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="enter_tip_percentage">Enter Tip Percentage</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="given_amount">Given Amount</string>
+    <string name="tip_amount">Tip Amount</string>
+</resources>
